@@ -1,0 +1,35 @@
+body {
+    background-color: #f4f1e8;
+    
+  }
+
+  .navbar-brand {
+    padding: 0px;
+    margin: 5px;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 650;
+  }
+  
+  
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+
+
+h2{
+  font-family: "Chonburi", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+
+  
+
+
+
+
+
+
+
